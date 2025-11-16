@@ -51,7 +51,7 @@ Pieni **React Native + Expo** -harjoitus, jossa opetellaan kahta asiaa:
 ### 📱 Portrait-näkymät
 <p align="left">
   <img src="./assets/alkunaytto.jpg" width="180" />
-  <img src="./assets/Modal_portrait.jpg" width="180" />
+  <img src="./assets/modal_portrait.jpg" width="180" />
 </p>
 
 ### 🖥️ Landscape-näkymät
